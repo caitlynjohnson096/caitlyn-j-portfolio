@@ -22,7 +22,7 @@ if (preg_match('/^\/public\//', $request_uri) || $request_uri == '/favicon.ico')
   // serve the requested resource as-is.
   return False;
 } else if (match_routes($request_uri, '/')) {
-  require 'pages/home.php';
+  require 'pages/index.php';
 } else if (match_routes($request_uri, '/about')) {
   require 'pages/about.php';
 } else if (match_routes($request_uri, '/resume')) {
