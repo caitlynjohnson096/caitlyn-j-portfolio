@@ -7,4 +7,3 @@ deployment:
        - /bin/cp router.php $DEPLOYPATH
         - /bin/cp -R .vscode $DEPLOYPATH
          - /bin/cp -R .devcontainter $DEPLOYPATH
-          - /bin/cp -R public $DEPLOYPATH
