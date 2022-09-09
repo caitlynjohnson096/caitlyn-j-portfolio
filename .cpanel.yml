@@ -1,0 +1,10 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/caitlynjohnson096/public_html/
+    - /bin/cp -R public $DEPLOYPATH
+     - /bin/cp -R pages $DEPLOYPATH
+      - /bin/cp -R includes $DEPLOYPATH
+       - /bin/cp router.php $DEPLOYPATH
+        - /bin/cp -R .vscode $DEPLOYPATH
+         - /bin/cp -R .devcontainter $DEPLOYPATH
+          - /bin/cp -R public $DEPLOYPATH
