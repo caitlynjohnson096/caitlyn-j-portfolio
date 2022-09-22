@@ -2,6 +2,7 @@
     <nav>
           <ul>
             <div class="left">
+
             <li> Caitlyn Johnson</li>
 </div>
             <li class=<?php echo $resumeStyling?>><a href="/resume">Resume</a></li>

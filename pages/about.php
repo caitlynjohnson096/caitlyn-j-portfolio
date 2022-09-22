@@ -23,6 +23,7 @@ $aboutStyling = "active_page";
       </div>
 
        <div class="about-writing">
+
        <p> <b>Hi, I'm Caitlyn,</b></p>
           <p> and I am a junior studying Information Science with a concentration in User Experience Design at Cornell University. I became passionate about UX design through a variety of my courses at school that discuss the importance of making design clear, understandable, and accessible. I have begun divining into this interest through my Design Consulting Club. This experience has allowed me to gain real-life UX experience and work with clients to create specialized technology solutions that meet a specific user's needs. Through this opportunity, I have been able to design a product for the Stanford Longevity Design Challenge and I have begun working with a client on a project in the financial sector. </p>
 
@@ -30,9 +31,9 @@ $aboutStyling = "active_page";
         </div>
     </div>
 
-    <!-- <?php include('includes/footer.php'); ?> -->
 
 
+    <?php include('includes/footer.php'); ?>
 
 
   </body>
