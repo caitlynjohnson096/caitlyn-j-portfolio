@@ -23,9 +23,9 @@
 </div>
 <div class="column2">
 <p><strong>Role:</strong> Project Manager</p>
-<p><strong>Team:</strong> Calvin Lee , Qiyu Hu, Gracia Xu, Nancy Duong </p>
+<p><strong>Team:</strong> Calvin, Qiyu, Gracia, Nancy </p>
 <p> <strong> Timeline: </strong> March 2022 - May 2022</p>
-<p> <strong>Tools: Figma, Notion</strong></p>
+<p> <strong>Tools: </strong> Figma, Notion</p>
 </div>
 </div>
 <h2> Problem </h2>
