@@ -28,7 +28,7 @@
 <h2> Problem </h2>
 <p> College graduates are not currently afforded an effective way to engage in social activities and make friends organically through shared interests and backgrounds amongst people in their new city.</p>
 <h2> Solution </h2>
-  <p> An app that allows people to join groups called circles that promote activities and friendships within a certain hobby space . Additionally, this app also largely depends on its map feature, which allows users to interact with friends and events nearby based upon current location.</p>
+  <p> An app that allows people to join groups called circles that <strong> promote activities and friendships within a certain hobby space </strong> . Additionally, this app also largely depends on its <strong>map feature </strong>, which allows users to interact with friends and events nearby based upon current location.</p>
 
   <h2> User Research </h2>
 
@@ -81,11 +81,10 @@
 </div>
 <h2> Ideation </h2>
 <h3> Storyboarding </h3>
-<p>
-The key findings from user-research provided a jumping off point for the ways that technology could be leveraged to help recent college graduates. The team then used this research to generate storyboards to tell the struggle of post-grads and how technology could be used to support that process. </p>
+<p>The key findings from user-research provided a jumping off point for the ways that technology could be leveraged to help recent college graduates. The team then used this research to<strong> generate storyboards</strong> to tell the struggle of post-grads and <strong> how technology could be used to support that process.</strong> </p>
 <img  src="public/images/storyboard.png" alt="Circles Logo">
 <h3> The Idea </h3>
-<p> Users can choose to join “circles,” which are similar to group chat channels based on commonalities such as work and hobbies through a mobile app interface. Additionally, relevant events are suggested weekly to these circles, and users can indicate if they are going as well as see who else is interested. </p>
+<p> Users can choose to <strong> join “circles”</strong>, which are <strong> similar to group chat channels based on commonalities </strong>such as work and hobbies through a mobile app interface. Additionally, <strong>relevant events are suggested weekly to these circles</strong>, and users can indicate if they are going as well as see who else is interested. </p>
 <h2> User Testing </h2>
 
 <div class="two-column">
@@ -94,7 +93,7 @@ The key findings from user-research provided a jumping off point for the ways th
 </div>
 <div class="column2">
   <h3> Methods </h3>
-  <p> We used Facebook messenger to test the functionality and engagement of the app that we wanted to prototype. We aimed to test our high priority risks of the app such as users not being able to arrange schedules to go to events together, the awkwardness of meeting a group of new people, and safety concerns. We had the users interact with messenger  by asking them to join circles, choose events they wanted to check, and request new events.  </p>
+  <p> Facebook messenger was used to test the functionality and engagement of the app that we wanted to prototype. We aimed to <strong> test the high priority risks </strong> of the app such as users not being able to arrange schedules to go to events together, the awkwardness of meeting a group of new people, and safety concerns. We had the users <strong>interact with messenger by asking them to join circles, choose events they wanted to check, and request new events. </strong>  </p>
   <h3> Findings </h3>
   <ol>
     <li>AI did not provide them with enough information to understand what a circle is </li>
@@ -104,6 +103,9 @@ The key findings from user-research provided a jumping off point for the ways th
   </ol>
 </div>
 </div>
+<h3> User Research and Testing Design Choices </h3>
+<img  src="public/images/grow-user.png" alt="Circles Logo">
+<h2> High-Fi Iterations </h2>
 <h3>Profile Page</h3>
 <div class="two-column">
   <div class="column1">
@@ -134,8 +136,28 @@ The key findings from user-research provided a jumping off point for the ways th
 </div>
 </div>
 
+<h2> Final Design Solution </h2>
+<div class="three-column">
+  <div class="columns1">
+<h3> Friends and Events Map</h3>
 
+<video controls="controls" width="800" height="600" name="Video Name">
+  <source src="public/videos/circle-map.mp4">
+</video>
+</div>
 
+<div class="columns2">
+  <h3> Search by Hobbies </h3>
+<video controls="controls" width="800" height="600" name="Video Name">
+  <source src="public/videos/circle-search.mp4">
+</video>
+</div>
+<div class="columns3">
+  <h3> Circle Groups and Messaging</h3>
+<video controls="controls" width="800" height="600" name="Video Name">
+  <source src="public/videos/circle-message.mp4">
+</video>
+</div>
 </div>
 
         <?php include('includes/footer.php'); ?>

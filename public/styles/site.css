@@ -67,14 +67,16 @@ background-color: rgba(214, 212, 212, 0.479);;
   font-size: 120%;
 }
 
-.about-writing p{
+/* .about-writing p{
   font-size: 130%;
-}
+} */
 .work-intro h1{
   color:  #EA638C ;
   text-align: left;
   text-decoration: none;
   margin: 70px;
+  font-size: 110%;
+  font-family: 'Montserrat';
 }
 .work-intro img{
   width: 16%;
@@ -82,34 +84,44 @@ background-color: rgba(214, 212, 212, 0.479);;
   margin-left: 55px;
   margin-bottom: 5px;
   padding-bottom: 5px;
+
+}
+.work-intro p{
+font-size: 100%;
+}
+
+
+.project-cards{
+/* margin: 0 auto;
+align-items: center;
+flex-shrink: 0;
+flex-grow: 1; */
+width: 100%;
+height: 100%;
+display: flex;
+flex-flow: wrap;
+margin-bottom: 75px;
+/* align-items: center;
+justify-content: center; */
+margin-left: 80px;
 }
 
 .project-cards img{
-width: 60%;
-height: 40%;
-/* padding: 0px; */
-}
+  width: 450px;
+  height: 200px;
+  }
 
-.project-cards img{
-
-margin-left: 170px;
-width: 60%;
-height: 30%;
-}
-.test img{
-width: 70%;
-height: 60%;
-margin-left: 260px;
-}
 
 .card1{
   padding:0px;
   width: 50%;
+  flex: 1;
 
 }
 .card2{
   padding: 0px;
   width: 50%;
+  flex: 1;
 }
 
 .sketches{
@@ -410,6 +422,17 @@ color:#870E0E;
   width: 100%;
   height: 100%;
 }
+.clark-user img{
+width: 50%;
+height: 50%;
+}
+
+.clark-logo{
+  width: 35%;
+  height: 35%;
+
+  margin: 0 auto;
+}
 .circles{
   padding-left: 200px;
   padding-right: 200px;
@@ -420,6 +443,10 @@ color:#870E0E;
  }
 .circles strong{
   color: #572AB8
+}
+.circles video{
+  width:80%;
+  height: 80%;
 }
 .two-column{
   display: flex;

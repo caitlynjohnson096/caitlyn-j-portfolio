@@ -29,21 +29,30 @@ $workStyling = "active_page";
       </div>
       <!-- <h1> Check out Sme of My Work </h2> -->
       <!-- <h1> Check out Some of my work😊 </h1> -->
-<div class="test">
+<!-- <div class="test"> -->
 <p> Check out some of my work </p>
-      <a href="/circles"><img src="public/images/qa-test.png"></a>
-</div>
+
+
+<!-- </div> -->
 <div class="project-cards">
-<a href="/circles"><img src="public/images/circle-cover.png"></a>
-
-<a href="/qa"><img src="public/images/qa-cover.png"></a>
 
 
-<a href="/longevity"><img src="public/images/grow-cover.png"></a>
-
-
-<a href="/clarks"><img src="public/images/clark-cover.png"></a>
+  <div class="card1">
+<a href="/qa"><img src="public/images/qa-casee.png"></a>
+<a href="/circles"><img src="public/images/circle-case.png"></a>
 </div>
+
+<!-- <a href="/qa"><img src="public/images/qa-cover.png"></a> -->
+
+<div class="card2">
+<a href="/longevity"><img src="public/images/grow-case.png"></a>
+
+
+<a href="/clarks"><img src="public/images/clark-case.png"></a>
+</div>
+</div>
+
+<p> Some other cool stuff I've been working on </p>
 
 
 
